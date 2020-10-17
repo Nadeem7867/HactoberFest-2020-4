@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a,b,c;
+char op;
+printf("enter an expression");
+scanf("%d%d%d",&a.&b,&c);
+switch(op)
+{
+case '+'
+c=a+b;
+break;
+case '-'
+c=a-b;
+break;
+case '*'
+c=a*b;
+break;
+}
+print("c=%d",c);
+}
